@@ -1,7 +1,7 @@
 <h1 align="center">Project Name: Hugo_blog</h1>
 <h3 align="center">A simple blog site using hugo</h3>
-
-- 🔭 Hugo Static site generator [-](https://gohugo.io/)
+<p align="center"> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> </p>
+- 🔭 Hugo Static site generator - [Learn more about hugo](https://gohugo.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/INmahi](https://github.com/INmahi)
 
@@ -18,5 +18,3 @@
 <a href="https://instagram.com/n_ordinary__kid___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n_ordinary__kid___" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> </p>
