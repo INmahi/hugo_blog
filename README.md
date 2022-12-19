@@ -2,6 +2,8 @@
 <h3 align="center">A simple blog site using hugo</h3>
 <p align="center"> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> </p>
 
+***To visit live demo [Click Here](https://hugo-blogs.netlify.app/)***
+
 - 🔭 Hugo Static site generator - [Learn more about hugo](https://gohugo.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/INmahi](https://github.com/INmahi)
